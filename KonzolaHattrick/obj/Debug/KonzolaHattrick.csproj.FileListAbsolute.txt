@@ -1,0 +1,11 @@
+C:\Users\Rossonero\source\repos\KonzolaHattrick\KonzolaHattrick\bin\Debug\KonzolaHattrick.exe.config
+C:\Users\Rossonero\source\repos\KonzolaHattrick\KonzolaHattrick\bin\Debug\KonzolaHattrick.exe
+C:\Users\Rossonero\source\repos\KonzolaHattrick\KonzolaHattrick\bin\Debug\KonzolaHattrick.pdb
+C:\Users\Rossonero\source\repos\KonzolaHattrick\KonzolaHattrick\obj\Debug\KonzolaHattrick.csprojAssemblyReference.cache
+C:\Users\Rossonero\source\repos\KonzolaHattrick\KonzolaHattrick\obj\Debug\KonzolaHattrick.exe
+C:\Users\Rossonero\source\repos\KonzolaHattrick\KonzolaHattrick\obj\Debug\KonzolaHattrick.pdb
+C:\Users\Rossonero\source\repos\KonzolaHattrick\KonzolaHattrick\bin\Debug\EntityFramework.dll
+C:\Users\Rossonero\source\repos\KonzolaHattrick\KonzolaHattrick\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rossonero\source\repos\KonzolaHattrick\KonzolaHattrick\bin\Debug\EntityFramework.xml
+C:\Users\Rossonero\source\repos\KonzolaHattrick\KonzolaHattrick\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rossonero\source\repos\KonzolaHattrick\KonzolaHattrick\obj\Debug\KonzolaHattrick.csproj.CopyComplete

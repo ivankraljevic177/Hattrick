@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonzolaHattrick", "KonzolaHattrick\KonzolaHattrick.csproj", "{F158EBEB-4219-4861-9DF7-752EDD76ED53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseContext", "DatabaseContext\DatabaseContext.csproj", "{2F6A4EC7-F4F6-4A18-B295-DC900DE7AC67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F158EBEB-4219-4861-9DF7-752EDD76ED53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F158EBEB-4219-4861-9DF7-752EDD76ED53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F158EBEB-4219-4861-9DF7-752EDD76ED53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F158EBEB-4219-4861-9DF7-752EDD76ED53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6A4EC7-F4F6-4A18-B295-DC900DE7AC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6A4EC7-F4F6-4A18-B295-DC900DE7AC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6A4EC7-F4F6-4A18-B295-DC900DE7AC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6A4EC7-F4F6-4A18-B295-DC900DE7AC67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8263E2F8-88E4-480C-BD48-1F61988CD557}
+	EndGlobalSection
+EndGlobal
